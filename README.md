@@ -14,10 +14,10 @@ Segue as URLs para utilização
 
 URL para uso geral e com a cor azul
 ```
-@import url("https://raw.githubusercontent.com/ServTECTelecom/ServJelly/refs/heads/main/geral-azul.css");
+@import url("https://cdn.jsdelivr.net/gh/ServTECTelecom/ServJelly@refs/heads/main/geral-azul.css");
 ```
 
 URL para uso geral com a cor roxa
 ```
-@import url("https://raw.githubusercontent.com/ServTECTelecom/ServJelly/refs/heads/main/geral-roxo.css");
+@import url("https://cdn.jsdelivr.net/gh/ServTECTelecom/ServJelly@refs/heads/main/geral-roxo.css");
 ```
